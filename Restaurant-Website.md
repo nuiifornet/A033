@@ -1,5 +1,9 @@
 # Restaurant Website PHP MySQL v1.0 - Missing Authentication in Administrative AJAX Endpoints
 
+## submitter
+
+Fklov
+
 ## Vendor
 
 Restaurant Website PHP MySQL
@@ -13,7 +17,7 @@ https://github.com/jairiidriss/restaurant-website-php-mysql
 
 ## Vulnerability Type
 
-CWE-306: Missing Authentication for Critical Function
+Missing Authentication for Critical Function
 
 ## Affected Files
 
@@ -120,14 +124,3 @@ if(!isset($_SESSION['username_restaurant_qRewacvAqzA']) ||
     exit('Unauthorized');
 }
 ```
-
-## Security Impact
-
-* Attack Vector (AV): Network
-* Privileges Required (PR): None
-* User Interaction (UI): None
-* Scope (S): Unchanged
-* Confidentiality (C): Low
-* Integrity (I): High
-* Availability (A): High
-
