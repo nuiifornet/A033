@@ -175,3 +175,5 @@ $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
 
 ## Reproduction Evidence
 
+<img width="686" height="224" alt="image" src="https://github.com/user-attachments/assets/71c0f323-1b7b-4756-907e-8782461023d0" />
+
