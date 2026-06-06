@@ -129,3 +129,5 @@ if (!in_array($ext, $allowed)) {
 5. **Validate MIME type server-side** — use `finfo_file()` to verify actual file content type.
 
 ## Reproduction Evidence
+
+<img width="1074" height="276" alt="image" src="https://github.com/user-attachments/assets/50b3cb3c-f45e-4cbf-baac-8186ac1de0ea" />
