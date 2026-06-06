@@ -132,3 +132,5 @@ if (!in_array($ext, $allowed)) {
 4. **Strip the original extension** — store files with a `.bin` extension or a content-hash filename with no extension.
 
 ## Reproduction Evidence
+
+<img width="896" height="270" alt="image" src="https://github.com/user-attachments/assets/bb6cee52-3f79-4a82-904c-1e7b1bf82bbf" />
